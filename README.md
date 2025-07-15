@@ -10,7 +10,7 @@
 - 📄 Reportes simulados de vulnerabilidades
 - ⚙️ Scripts y automatizaciones que desarrollo
 - ✍️ Apuntes y resúmenes de mis estudios
-- 🎯 Progreso de aprendizaje semanal
+
 
 ---
 
