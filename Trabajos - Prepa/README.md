@@ -14,5 +14,5 @@ Este repositorio contiene los archivos y actividades realizadas para la materia 
 - **Fecha de empiezo:** [08/09/2025]
 
 ## 💡 Descripción general
-Estos trabajo fueron realizado como parte de las actividades del curso, con el objetivo de **[aprender y desarollar nuevas hablidiades en temas de prgramacion oreintada a pagina web se aprenderan los 3 leguajes basicos del ambito "HTML,CSS y Java Script".]**
+Estos trabajo fueron realizado como parte de las actividades del curso, con el objetivo de **[aprender y desarollar nuevas hablidiades en temas de prgramacion oreintada a pagina web , se aprendera lo basicos del ambito "HTML,CSS y Java Script".]**
 
