@@ -3,9 +3,7 @@
 Este repositorio contiene los archivos y actividades realizadas para la materia de **IMPLE.APLI.WEB** durante la **preparatoria**.
 
 ##  Contenido
-- **[Carpeta o archivo 1]**: breve descripción (por ejemplo: investigación, práctica, informe, etc.)
-- **[Carpeta o archivo 2]**: breve descripción
-- **[Carpeta o archivo 3]**: breve descripción
+-En acomodo...
 
 ##  Información
 - **Nombre:** [Ruben Emmanuel Pedroza Lopez]  
