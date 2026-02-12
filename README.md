@@ -1,6 +1,6 @@
-# Portafolio de Hacking Ético – Rubén Emmanuel
+# Portafolio de – Rubén Emmanuel
 
-**Objetivo:** Convertirme en profesional de la ciberseguridad ofensiva y bug bounty hunter.
+**Objetivo:** Convertirme en profesional en el area de pentester.
 
 ---
 
