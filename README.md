@@ -1,20 +1,15 @@
-# Portafolio de – Rubén Emmanuel
-
-**Objetivo:** Convertirme en profesional en el area de pentester.
 
 ---
 
-## 📂 ¿Qué encontrarás aquí?
+##  ¿Qué encontrarás aquí?
 
--  Laboratorios realizados (PortSwigger, Hack The Box, TryHackMe)
--  Reportes simulados de vulnerabilidades
--  Scripts y automatizaciones que desarrollo
+-  Aulas realizados de  Tryhackme
 -  Apuntes y resúmenes de mis estudios
 
 
 ---
 
-## Áreas de enfoque actuales
+## Áreas de enfoque que se tenia
 
 - OWASP Top 10
 - Pentesting de aplicaciones web
